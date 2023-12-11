@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExpenseTracker.DataSqlite/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.1.24",
+          "ExpenseTracker.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ExpenseTracker.DataSqlite.dll": {}
+        }
+      },
+      "Dapper/2.1.24": {
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.24.50284"
+          }
+        }
+      },
+      "ExpenseTracker.Domain/1.0.0": {
+        "dependencies": {
+          "ExpenseTracker.Shared": "1.0.0"
+        },
+        "runtime": {
+          "ExpenseTracker.Domain.dll": {}
+        }
+      },
+      "ExpenseTracker.Shared/1.0.0": {
+        "runtime": {
+          "ExpenseTracker.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpenseTracker.DataSqlite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper/2.1.24": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/2t2vsdJyZRsk13AsWigZpsuFvEwK+o3v862cEULXoww905gyKhJFSuwmZI/4Ui9COX9ZCFCI09UHyH4wVYl3A==",
+      "path": "dapper/2.1.24",
+      "hashPath": "dapper.2.1.24.nupkg.sha512"
+    },
+    "ExpenseTracker.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExpenseTracker.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

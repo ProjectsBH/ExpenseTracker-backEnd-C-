@@ -1,0 +1,44 @@
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Core.deps.json
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Core.dll
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Core.pdb
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Data.dll
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Domain.dll
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Shared.dll
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Data.pdb
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Domain.pdb
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Shared.pdb
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.csproj.AssemblyReference.cache
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.AssemblyInfoInputs.cache
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.AssemblyInfo.cs
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.csproj.CoreCompileInputs.cache
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.csproj.CopyComplete
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.dll
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\refint\ExpenseTracker.Core.dll
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.pdb
+F:\BH Projects\repos\Visual Studio 2022\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ref\ExpenseTracker.Core.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Core.deps.json
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Core.runtimeconfig.json
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Core.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Core.pdb
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Data.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.DataMySQL.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.DataSqlite.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Domain.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Shared.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.DataMySQL.pdb
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.DataSqlite.pdb
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Data.pdb
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Domain.pdb
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.Shared.pdb
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.csproj.AssemblyReference.cache
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.AssemblyInfoInputs.cache
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.AssemblyInfo.cs
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.csproj.CoreCompileInputs.cache
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.csproj.CopyComplete
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\refint\ExpenseTracker.Core.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.pdb
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.genruntimeconfig.cache
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ref\ExpenseTracker.Core.dll

@@ -1,0 +1,154 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Dapper/2.1.24": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "ExpenseTracker.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ExpenseTracker.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ExpenseTracker.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExpenseTracker.Domain.dll": {}
+        }
+      },
+      "ExpenseTracker.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ExpenseTracker.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExpenseTracker.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dapper/2.1.24": {
+      "sha512": "/2t2vsdJyZRsk13AsWigZpsuFvEwK+o3v862cEULXoww905gyKhJFSuwmZI/4Ui9COX9ZCFCI09UHyH4wVYl3A==",
+      "type": "package",
+      "path": "dapper/2.1.24",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Dapper.png",
+        "dapper.2.1.24.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/net7.0/Dapper.dll",
+        "lib/net7.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml",
+        "readme.md"
+      ]
+    },
+    "ExpenseTracker.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ExpenseTracker.Domain/ExpenseTracker.Domain.csproj",
+      "msbuildProject": "../ExpenseTracker.Domain/ExpenseTracker.Domain.csproj"
+    },
+    "ExpenseTracker.Shared/1.0.0": {
+      "type": "project",
+      "path": "../ExpenseTracker.Shared/ExpenseTracker.Shared.csproj",
+      "msbuildProject": "../ExpenseTracker.Shared/ExpenseTracker.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Dapper >= 2.1.24",
+      "ExpenseTracker.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\BH\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.DataSqlite\\ExpenseTracker.DataSqlite.csproj",
+      "projectName": "ExpenseTracker.DataSqlite",
+      "projectPath": "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.DataSqlite\\ExpenseTracker.DataSqlite.csproj",
+      "packagesPath": "C:\\Users\\BH\\.nuget\\packages\\",
+      "outputPath": "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.DataSqlite\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\BH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj": {
+              "projectPath": "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.1.24, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

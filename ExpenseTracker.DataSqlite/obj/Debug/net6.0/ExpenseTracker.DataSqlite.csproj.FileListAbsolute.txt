@@ -1,0 +1,17 @@
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\bin\Debug\net6.0\ExpenseTracker.DataSqlite.deps.json
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\bin\Debug\net6.0\ExpenseTracker.DataSqlite.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\bin\Debug\net6.0\ExpenseTracker.DataSqlite.pdb
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\bin\Debug\net6.0\ExpenseTracker.Domain.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\bin\Debug\net6.0\ExpenseTracker.Shared.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\bin\Debug\net6.0\ExpenseTracker.Domain.pdb
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\bin\Debug\net6.0\ExpenseTracker.Shared.pdb
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\obj\Debug\net6.0\ExpenseTracker.DataSqlite.csproj.AssemblyReference.cache
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\obj\Debug\net6.0\ExpenseTracker.DataSqlite.GeneratedMSBuildEditorConfig.editorconfig
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\obj\Debug\net6.0\ExpenseTracker.DataSqlite.AssemblyInfoInputs.cache
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\obj\Debug\net6.0\ExpenseTracker.DataSqlite.AssemblyInfo.cs
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\obj\Debug\net6.0\ExpenseTracker.DataSqlite.csproj.CoreCompileInputs.cache
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\obj\Debug\net6.0\ExpenseTracker.DataSqlite.csproj.CopyComplete
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\obj\Debug\net6.0\ExpenseTracker.DataSqlite.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\obj\Debug\net6.0\refint\ExpenseTracker.DataSqlite.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\obj\Debug\net6.0\ExpenseTracker.DataSqlite.pdb
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataSqlite\obj\Debug\net6.0\ref\ExpenseTracker.DataSqlite.dll

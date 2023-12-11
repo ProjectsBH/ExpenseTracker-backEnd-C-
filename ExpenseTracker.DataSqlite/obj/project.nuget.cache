@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yLd/ri4WPbJWqSHrsNDV+3J8e/qOz5gj88iLT67lNLZ+z3EYb3hHxbw2mHc2Emg5UUc5rDkr+Hclh43CF1B8AA==",
+  "success": true,
+  "projectFilePath": "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.DataSqlite\\ExpenseTracker.DataSqlite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BH\\.nuget\\packages\\dapper\\2.1.24\\dapper.2.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

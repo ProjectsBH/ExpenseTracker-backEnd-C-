@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1kM3WJm+up0nRjcOiwI8QPmIMcFCRnt9fpj1r0VUtxk6YfLjJvCoLT1aGKzJ8FvwqzhXGTAOgayG8iTt7Q1vAQ==",
+  "success": true,
+  "projectFilePath": "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.DataMySQL\\ExpenseTracker.DataMySQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BH\\.nuget\\packages\\dapper\\2.1.21\\dapper.2.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

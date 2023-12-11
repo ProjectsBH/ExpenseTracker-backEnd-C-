@@ -1,0 +1,17 @@
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\bin\Debug\net6.0\ExpenseTracker.DataMySQL.deps.json
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\bin\Debug\net6.0\ExpenseTracker.DataMySQL.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\bin\Debug\net6.0\ExpenseTracker.DataMySQL.pdb
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\bin\Debug\net6.0\ExpenseTracker.Domain.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\bin\Debug\net6.0\ExpenseTracker.Shared.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\bin\Debug\net6.0\ExpenseTracker.Domain.pdb
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\bin\Debug\net6.0\ExpenseTracker.Shared.pdb
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\obj\Debug\net6.0\ExpenseTracker.DataMySQL.csproj.AssemblyReference.cache
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\obj\Debug\net6.0\ExpenseTracker.DataMySQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\obj\Debug\net6.0\ExpenseTracker.DataMySQL.AssemblyInfoInputs.cache
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\obj\Debug\net6.0\ExpenseTracker.DataMySQL.AssemblyInfo.cs
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\obj\Debug\net6.0\ExpenseTracker.DataMySQL.csproj.CoreCompileInputs.cache
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\obj\Debug\net6.0\ExpenseTracker.DataMySQL.csproj.CopyComplete
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\obj\Debug\net6.0\ExpenseTracker.DataMySQL.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\obj\Debug\net6.0\refint\ExpenseTracker.DataMySQL.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\obj\Debug\net6.0\ExpenseTracker.DataMySQL.pdb
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.DataMySQL\obj\Debug\net6.0\ref\ExpenseTracker.DataMySQL.dll
