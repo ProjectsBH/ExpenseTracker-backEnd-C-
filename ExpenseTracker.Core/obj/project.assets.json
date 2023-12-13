@@ -520,6 +520,19 @@
           "bin/placeholder/ExpenseTracker.Data.dll": {}
         }
       },
+      "ExpenseTracker.DataMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ExpenseTracker.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ExpenseTracker.DataMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExpenseTracker.DataMemory.dll": {}
+        }
+      },
       "ExpenseTracker.DataMySQL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1624,6 +1637,11 @@
       "path": "../ExpenseTracker.Data/ExpenseTracker.Data.csproj",
       "msbuildProject": "../ExpenseTracker.Data/ExpenseTracker.Data.csproj"
     },
+    "ExpenseTracker.DataMemory/1.0.0": {
+      "type": "project",
+      "path": "../ExpenseTracker.DataMemory/ExpenseTracker.DataMemory.csproj",
+      "msbuildProject": "../ExpenseTracker.DataMemory/ExpenseTracker.DataMemory.csproj"
+    },
     "ExpenseTracker.DataMySQL/1.0.0": {
       "type": "project",
       "path": "../ExpenseTracker.DataMySQL/ExpenseTracker.DataMySQL.csproj",
@@ -1648,6 +1666,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "ExpenseTracker.Data >= 1.0.0",
+      "ExpenseTracker.DataMemory >= 1.0.0",
       "ExpenseTracker.DataMySQL >= 1.0.0",
       "ExpenseTracker.DataSqlite >= 1.0.0",
       "ExpenseTracker.Domain >= 1.0.0",
@@ -1689,6 +1708,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.DataMemory\\ExpenseTracker.DataMemory.csproj": {
+              "projectPath": "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.DataMemory\\ExpenseTracker.DataMemory.csproj"
+            },
             "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.DataMySQL\\ExpenseTracker.DataMySQL.csproj": {
               "projectPath": "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.DataMySQL\\ExpenseTracker.DataMySQL.csproj"
             },

@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ExpenseTracker.DataMemory\ExpenseTracker.DataMemory.csproj" />
     <ProjectReference Include="..\ExpenseTracker.DataMySQL\ExpenseTracker.DataMySQL.csproj" />
     <ProjectReference Include="..\ExpenseTracker.DataSqlite\ExpenseTracker.DataSqlite.csproj" />
     <ProjectReference Include="..\ExpenseTracker.Data\ExpenseTracker.Data.csproj" />

@@ -255,6 +255,7 @@
       "ExpenseTracker.Core/1.0.0": {
         "dependencies": {
           "ExpenseTracker.Data": "1.0.0",
+          "ExpenseTracker.DataMemory": "1.0.0",
           "ExpenseTracker.DataMySQL": "1.0.0",
           "ExpenseTracker.DataSqlite": "1.0.0",
           "ExpenseTracker.Domain": "1.0.0",
@@ -275,6 +276,14 @@
         },
         "runtime": {
           "ExpenseTracker.Data.dll": {}
+        }
+      },
+      "ExpenseTracker.DataMemory/1.0.0": {
+        "dependencies": {
+          "ExpenseTracker.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ExpenseTracker.DataMemory.dll": {}
         }
       },
       "ExpenseTracker.DataMySQL/1.0.0": {
@@ -532,6 +541,11 @@
       "sha512": ""
     },
     "ExpenseTracker.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExpenseTracker.DataMemory/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

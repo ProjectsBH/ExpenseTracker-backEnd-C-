@@ -42,3 +42,5 @@ D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrac
 D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.pdb
 D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ExpenseTracker.Core.genruntimeconfig.cache
 D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\obj\Debug\net6.0\ref\ExpenseTracker.Core.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.DataMemory.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.Core\bin\Debug\net6.0\ExpenseTracker.DataMemory.pdb

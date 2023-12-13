@@ -28,7 +28,7 @@ namespace ExpenseTracker.UIWinForms.Config
         {
             var services = new ServiceCollection();
             
-            AppSettings.DBProvider = DataBaseProvider.SQLite;
+            AppSettings.DBProvider = DataBaseProvider.Memory;
             string ConnectionStringSQLServer = ConfigurationManager.AppSettings["DBConnection"].ToString();
             string ConnectionStringMySQL = "Server=localhost;Database=expensetrackerdb_api;Uid=root;Pwd=;";
             string ConnectionStringSqlLite = "Data Source=expensetrackerdb_api; Version=3";

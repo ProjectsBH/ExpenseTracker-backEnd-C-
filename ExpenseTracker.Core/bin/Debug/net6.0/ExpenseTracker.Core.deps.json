@@ -9,6 +9,7 @@
       "ExpenseTracker.Core/1.0.0": {
         "dependencies": {
           "ExpenseTracker.Data": "1.0.0",
+          "ExpenseTracker.DataMemory": "1.0.0",
           "ExpenseTracker.DataMySQL": "1.0.0",
           "ExpenseTracker.DataSqlite": "1.0.0",
           "ExpenseTracker.Domain": "1.0.0",
@@ -350,6 +351,14 @@
           "ExpenseTracker.Data.dll": {}
         }
       },
+      "ExpenseTracker.DataMemory/1.0.0": {
+        "dependencies": {
+          "ExpenseTracker.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ExpenseTracker.DataMemory.dll": {}
+        }
+      },
       "ExpenseTracker.DataMySQL/1.0.0": {
         "dependencies": {
           "Dapper": "2.1.24",
@@ -600,6 +609,11 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "ExpenseTracker.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExpenseTracker.DataMemory/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

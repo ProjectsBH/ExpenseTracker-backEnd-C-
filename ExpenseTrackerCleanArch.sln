@@ -19,7 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpenseTracker.UIWinForms",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpenseTracker.DataMySQL", "ExpenseTracker.DataMySQL\ExpenseTracker.DataMySQL.csproj", "{B41D4EF1-8AE7-445E-A371-A7D0D658DFAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseTracker.DataSqlite", "ExpenseTracker.DataSqlite\ExpenseTracker.DataSqlite.csproj", "{83003059-151F-46F0-A14E-3691991E352C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpenseTracker.DataSqlite", "ExpenseTracker.DataSqlite\ExpenseTracker.DataSqlite.csproj", "{83003059-151F-46F0-A14E-3691991E352C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{119EDDC6-CE81-44BA-923E-0EBAE30A615B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseTracker.DataMemory", "ExpenseTracker.DataMemory\ExpenseTracker.DataMemory.csproj", "{4A70FCA3-4582-461A-806C-891AAC321E90}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OtherProjects", "OtherProjects", "{BEEA79DE-D3B7-4734-836C-475E50DC9997}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,13 +65,22 @@ Global
 		{83003059-151F-46F0-A14E-3691991E352C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83003059-151F-46F0-A14E-3691991E352C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83003059-151F-46F0-A14E-3691991E352C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A70FCA3-4582-461A-806C-891AAC321E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A70FCA3-4582-461A-806C-891AAC321E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A70FCA3-4582-461A-806C-891AAC321E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A70FCA3-4582-461A-806C-891AAC321E90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{AA1F2BE8-82B0-44EC-8BE0-644047B16A43} = {BEEA79DE-D3B7-4734-836C-475E50DC9997}
+		{90C9A24F-EA29-4938-8A6B-8C861A334C04} = {119EDDC6-CE81-44BA-923E-0EBAE30A615B}
 		{56ACEB07-345A-48D4-8378-35D8D91C771F} = {6AF19608-642B-4582-9961-C77EC0B484CA}
 		{F0E8E993-FA47-4444-90A0-E7FD1EB72D98} = {6AF19608-642B-4582-9961-C77EC0B484CA}
+		{B41D4EF1-8AE7-445E-A371-A7D0D658DFAD} = {119EDDC6-CE81-44BA-923E-0EBAE30A615B}
+		{83003059-151F-46F0-A14E-3691991E352C} = {119EDDC6-CE81-44BA-923E-0EBAE30A615B}
+		{4A70FCA3-4582-461A-806C-891AAC321E90} = {119EDDC6-CE81-44BA-923E-0EBAE30A615B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B5A06E6F-139D-470A-99AA-DBDD0213EAB1}

@@ -101,3 +101,5 @@ D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrac
 D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.UIWinForms\obj\Debug\net6.0-windows\ExpenseTracker.UIWinForms.pdb
 D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.UIWinForms\obj\Debug\net6.0-windows\ExpenseTracker.UIWinForms.genruntimeconfig.cache
 D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.UIWinForms\obj\Debug\net6.0-windows\ref\ExpenseTracker.UIWinForms.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.UIWinForms\bin\Debug\net6.0-windows\ExpenseTracker.DataMemory.dll
+D:\أنظمة\الانظمة\نظام 9\last 2022\ExpenseTracker_API\ExpenseTrackerCleanArch\ExpenseTracker.UIWinForms\bin\Debug\net6.0-windows\ExpenseTracker.DataMemory.pdb

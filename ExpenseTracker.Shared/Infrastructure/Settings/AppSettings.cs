@@ -17,6 +17,7 @@ namespace ExpenseTracker.Shared.Infrastructure.Settings
         SqlServer,
         MySQL,
         SQLite,
-        Postgresql
+        Postgresql,
+        Memory
     }
 }

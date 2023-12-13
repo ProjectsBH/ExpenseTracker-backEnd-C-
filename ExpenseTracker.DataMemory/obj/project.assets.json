@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ExpenseTracker.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ExpenseTracker.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ExpenseTracker.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExpenseTracker.Domain.dll": {}
+        }
+      },
+      "ExpenseTracker.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ExpenseTracker.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExpenseTracker.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpenseTracker.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ExpenseTracker.Domain/ExpenseTracker.Domain.csproj",
+      "msbuildProject": "../ExpenseTracker.Domain/ExpenseTracker.Domain.csproj"
+    },
+    "ExpenseTracker.Shared/1.0.0": {
+      "type": "project",
+      "path": "../ExpenseTracker.Shared/ExpenseTracker.Shared.csproj",
+      "msbuildProject": "../ExpenseTracker.Shared/ExpenseTracker.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ExpenseTracker.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\BH\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.DataMemory\\ExpenseTracker.DataMemory.csproj",
+      "projectName": "ExpenseTracker.DataMemory",
+      "projectPath": "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.DataMemory\\ExpenseTracker.DataMemory.csproj",
+      "packagesPath": "C:\\Users\\BH\\.nuget\\packages\\",
+      "outputPath": "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.DataMemory\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\BH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj": {
+              "projectPath": "D:\\أنظمة\\الانظمة\\نظام 9\\last 2022\\ExpenseTracker_API\\ExpenseTrackerCleanArch\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

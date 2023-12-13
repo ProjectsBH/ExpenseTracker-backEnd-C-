@@ -17,6 +17,7 @@ using System.Text;
 using System.Threading.Tasks;
 using mys = ExpenseTracker.DataMySQL.Repository;
 using sqlite = ExpenseTracker.DataSqlite.Repository;
+using memory = ExpenseTracker.DataMemory.Repository;
 using ExpenseTracker.DataMySQL.DRY;
 
 namespace ExpenseTracker.Core.Configuration
@@ -41,6 +42,8 @@ namespace ExpenseTracker.Core.Configuration
                 services = ConfigureDataMySQL(services);
             else if (AppSettings.DBProvider == DataBaseProvider.SQLite)
                 services = ConfigureDataSqlite(services);
+            else if (AppSettings.DBProvider == DataBaseProvider.Memory)
+                services = ConfigureDataMemory(services);
 
             return services;
         }
@@ -137,7 +140,16 @@ namespace ExpenseTracker.Core.Configuration
             return services;
         }
 
-        
+        private static IServiceCollection ConfigureDataMemory(this IServiceCollection services)
+        {
+            //Repository
+            services.AddSingleton<IUserRepo, memory.UserRepoImpl>();
+            services.AddSingleton<IExpenseCategoryRepo, memory.ExpenseCategoryRepoImpl>();
+            services.AddSingleton<IExpensesRepo, memory.ExpensesRepoImpl>();
+
+            return services;
+        }
+
 
     }
 }
